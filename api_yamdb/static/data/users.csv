@@ -1,0 +1,10 @@
+id,username,email,role,bio,first_name,last_name
+100,bingobongo,bingobongo@yamdb.fake,user,,,
+101,capt_obvious,capt_obvious@yamdb.fake,admin,,,
+102,faust,faust@yamdb.fake,user,,,
+103,reviewer,reviewer@yamdb.fake,user,,,
+104,angry,angry@yamdb.fake,moderator,,,
+105,regular-user,user@no-admin.ru,user,,,
+106,superuser,superuser@admin.ru,admin,,,
+107,moderator,moderator@admin.ru,moderator,,,
+108,admin-user,admin-user@admin.ru,admin,,,

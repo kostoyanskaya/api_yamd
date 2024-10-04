@@ -1,0 +1,6 @@
+id,name,slug
+1,Фильм,movie
+2,Книга,book
+3,Музыка,music
+10,Admin Category,admin-slug1
+11,Superuser Category,superuser-slug
