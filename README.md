@@ -144,6 +144,6 @@ body:
 ***
 
 ## Авторы
-#### [_Виктория_](https://github.com/kostoyanskaya/),
-#### [_Станислав_](https://github.com/Parceva1),
+#### [_Виктория_](https://github.com/kostoyanskaya/)
+#### [_Станислав_](https://github.com/Parceva1)
 #### [_Елена_](https://github.com/ElenaChelyshkina)
